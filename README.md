@@ -1,1 +1,0 @@
-# ALEJ4NDRO2025-wazuh-siem-lab
